@@ -1,0 +1,56 @@
+[
+  {
+    "Id": "Senior Design Project",
+    "Maker": "Buonkuang Priestley, James Turtle, Jeffery Cho, Tobe To, Johnny Tran",
+    "img": "https://i.gyazo.com/75f1f642db3a4d4321e0a3079512947f.png",
+    "Url": "https://docs.google.com/document/d/1XxerQnp3zudq9gcBvRQw_hpNgbPaUXjhBA3aONyR_iA/edit?usp=sharing",
+    "Title": "ART Rover: Automated Rescue Trail Rover",
+    "Description": "The ART Rover seeks to improve emergency response times in the wilderness by autonomously patrolling a hiking trail. Certain features the rover will have include autonomous navigation, human detection, and GPS.",
+    "Ratings": null
+  },
+  {
+    "Id": "Tetris Project on Andriod Studio",
+    "Maker": "Buonkuang Priestley, Johnny Tran",
+    "img": "https://i.gyazo.com/2310b7ab2bfdd6cd8ace35d838bf9368.png",
+    "Url": "https://github.com/Bpriestl/Tetris-on-Andriod",
+    "Title": "Tetris Remastered for Andriod Devices",
+    "Description": "Tetris Game now on Mobile for Andriod! Features Include: Tutorial on Game Features, Levels that progressively increase as user gets a higher score, Saving a piece, Swipe gesture implemented (swipe around board; e.g down for hard drop), Sound Effects/Background Music.",
+    "Ratings": null
+  },
+  {
+    "Id": "Super Mario on Andriod Studio",
+    "Maker": "Buonkuang Priestley, Johnny Tran",
+    "img": "https://townsquare.media/site/295/files/2020/09/super-mario-bros.jpg",
+    "Url": "https://github.com/Bpriestl/Super-Mario-on-Andriod",
+    "Title": "Super Mario Remastered for Andriod Devices",
+    "Description": "Super Mario Brothers Game for Andriod Devices. Features include: Game scolls across the level in landscape fashion, 3 different levels with limited lives for Mario, Game keeps a running score and tracks Mario\u0027s lives, Super Mario and Invincible Mario are implemented, enemies such as Goombas and Prianha Plants are implemented.",
+    "Ratings": null
+  },
+  {
+    "Id": "Soldering a Rover",
+    "Maker": "Buonkuang Priestley",
+    "img": "https://i.gyazo.com/ab22062ac4577b00d1b3e55db181b75b.png",
+    "Url": "https://university.ti.com/en/faculty/ti-robotics-system-learning-kit/ti-robotics-system-learning-kit/curriculum-design-launch",
+    "Title": "Building a Rover with TI-RSLK",
+    "Description": "Soldered a microsontroller to the chasis with sensors, actuators, and motors!",
+    "Ratings": null
+  },
+  {
+    "Id": "Online Chess Project with Chatting Capabilities",
+    "Maker": "Buonkuang Priestley, Nathaniel Aponte, Andrew Lin, Sam Longo, Mason Ma ",
+    "img": "https://i.gyazo.com/02205370db274ec4db9fdc321cdfbeb3.png",
+    "Url": "https://github.com/Bpriestl/Chess-Online",
+    "Title": "Online Chess with Friends",
+    "Description": "This software program enables users to create profiles, add other users to a friend list, and interact with other users through a chat system including gifs and emojis, as well as play chess with other users.",
+    "Ratings": null
+  },
+  {
+    "Id": "Monitors when to water crops Project",
+    "Maker": "Buonkuang Priestley",
+    "img": "https://i.gyazo.com/92fbfa13d658e135474ff3d18540eaee.png",
+    "Url": "https://docs.google.com/document/d/1pFbLHd1gom5lZoWrHsGPntNjmZLnE93GlCx6P3I4YLw/edit?usp=sharing",
+    "Title": "Atmoshphere Monitoring System",
+    "Description": "In this project I developed a RaspberryPi based IoT device to implement an weather Monitoring System. The data from this monitoring system will be used to decide on how much water to be needed to irrigate and to \u0027turn on\u0027 a virtual sprinkler system.",
+    "Ratings": null
+  }
+]

@@ -1,0 +1,44 @@
+﻿@page
+@using BuonkuangPriestleyPortfolio.Components
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<head>
+    <style>
+        p.inset {
+            font-family: 'Merryweather';
+            border-style: groove;
+            /*border: 2px solid blue;*/
+            border-radius: 12px;
+            text-shadow: 4px 4px 4px #aaa;
+        }
+
+        p.contacts {
+            font-family: 'Roboto';
+            font-size: 12px;
+            text-shadow: 4px 4px 4px #aaa;
+        }
+    </style>
+    <script src="https://kit.fontawesome.com/054018e379.js"></script>
+</head>
+
+
+<div class="text-center">
+    <h1 class="display-4">Buonkuang Priestley's Portfolio</h1>
+    <p class="contacts">
+        <a class="link" href="https://github.com/Bpriestl?tab=repositories">
+            Bpriestl <i class="fab fa-github-square"></i>
+        </a> &nbsp; <!--&nbsp means adding space-->
+        <a class="link" href="https://www.linkedin.com/in/kuangpriestley23">
+            Kuang Priestley <i class="fab fa-linkedin"></i>
+        </a>
+    </p>
+    <p class="inset">Learn all about me by checking out the things I've done below!</p>
+</div>
+
+<!--lets the server prerender it-->
+@(await Html.RenderComponentAsync<ProjectList>(RenderMode.ServerPrerendered))
+<!--telling the system we want to use blazor javascript-->
+<script src="_framework/blazor.server.js"></script>
